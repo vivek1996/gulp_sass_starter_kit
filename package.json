@@ -1,7 +1,7 @@
 {
-  "name": "portfolio_edwisor",
+  "name": "Gulp_Saas_Starter_kit",
   "version": "1.0.0",
-  "description": "portfolio site",
+  "description": "A starter kit for gulp saas with error handling ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
