@@ -9,10 +9,10 @@
   "author": "vivek",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.23.7",
     "gulp": "^3.9.1",
     "gulp-cli": "^2.0.1",
-    "gulp-error-handle": "^1.0.0",
-    "gulp-sass": "^3.1.0"
+    "gulp-error-handle": "^1.0.1",
+    "gulp-sass": "^3.2.1"
   }
 }
